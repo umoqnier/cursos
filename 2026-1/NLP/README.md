@@ -33,7 +33,7 @@ la práctica vista
 - Inicio: 2-Sep-2025
 - Final: 5-sep-2025
 - Horario: 15:00-17:00
-- Lugar: *TBD* (Quizá algun salón de la FI o en el LIDSoL)
+- Lugar: [LIDSoL](https://lidsol.unam.mx/#contact)
 
 ## Instructor
 
