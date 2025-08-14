@@ -7,19 +7,6 @@ computadoras utilizando lenguaje natural. En este curso corto
 los alumnos obtendrán las herramientas para convertirse en practicantes del
 *NLP* permitiendoles resolver tareas actuales de forma satisfactoria.
 
-## Instructor
-
-- Me llamo Diego Barriga (asi es como el Sr. Barriga)
-- Egresado de la FI en ~2020 con especialización en Inteligencia Artificial
-    - Hice mi tesis sobre [NLP aplicado a lenguas indigenas habladas en México](http://www.ptolomeo.unam.mx:8080/xmlui/handle/RepoFi/18221)
-- Ex-Meli MLOps engineer 📦
-    - En el área de prevensión de fraude monitoreando modelos de *ML* a gran escala
-- Mis comunidades:
-    - LIDSoL 🔬
-    - Elotl 🌽
-    - Python CDMX 🐍
-- Programo con `nvim`, uso arch btw!, leo scifi y ando en bici sin frenos 🚲
-
 ## Objetivo
 
 Introducir y contextualizar a los asistentes en la evolución del área del *NLP*
@@ -31,6 +18,37 @@ lenguaje (principalmente textual).
 > [!Important]
 > Este no es un curso introductorio, nos vamo' a ir hata'bajo 🔥
 
+## Logística
+
+Las sesiones serán divididas en dos partes; la primer parte consistirá en una
+revisión teoríca (breve), y la segunda parte, consistirá en poner en práctica los
+conceptos teóricos. Utilizaremos [*jupyter notebooks*](https://jupyter.org/) que es
+un entorno de computación interactiva de código. Al final de cada
+sesión se dejará un ejercicio práctico que deberá extender o mejorar
+la práctica vista
+
+### Fechas, horarios, lugar
+
+- Modalidad: Presencial
+- Inicio: 2-Sep-2025
+- Final: 5-sep-2025
+- Horario: 15:00-17:00
+- Lugar: *TBD* (Quizá algun salón de la FI o en el LIDSoL)
+
+## Instructor
+
+- Me llamo Diego Barriga (asi es como el Sr. Barriga)
+- Egresado de la FI en ~2020 con especialización en Inteligencia Artificial
+- Parte del Programa de Maestría en Ciencias e Ingeniería de la Computación UNAM
+    - Hice mi tesis sobre [NLP aplicado a lenguas indigenas habladas en México](http://www.ptolomeo.unam.mx:8080/xmlui/handle/RepoFi/18221)
+- Ex-Meli MLOps engineer 📦
+    - En el área de prevencíon de fraude monitoreando modelos de *ML* a gran escala
+- Mis comunidades:
+    - LIDSoL 🔬
+    - Elotl 🌽
+    - Python CDMX 🐍
+- Programo con `nvim`, uso arch btw!, leo scifi y ando en bici sin frenos 🚲
+
 ## Pre-requisitos
 
 - Estar familiarizadæ con `python`
@@ -40,17 +58,10 @@ lenguaje (principalmente textual).
 - Nociones de Calculo, Algebra Líneal y Probabilidad
 - Fundamentos de *Machine Learning* (Opcional)
 
-## Logistica
-
-Las sesiones serán divididas en dos partes; la primer parte consistirá en una
-revisión teoría, y la segunda parte, consistirá en poner en práctica los
-conceptos teóricos. Utilizaremos [*jupyter notebooks*](https://jupyter.org/) que es
-un entorno de computación interactiva de código.
-
 ## Temario
 
 > [!NOTE]
-> Este curso está basado en las notas de las clases dictadas por læs profesoræs [Dra. Ximena Gutierrez-Vasques](https://sites.google.com/site/xgutierrezv/home) y [Dr. Victor Mijangos](https://sites.google.com/site/victormijangoscruz/) referentes del área en la UNAM.
+> Este curso es una adaptación en las notas de las clases dictadas por læs profesoræs [Dra. Ximena Gutierrez-Vasques](https://sites.google.com/site/xgutierrezv/home) y [Dr. Victor Mijangos](https://sites.google.com/site/victormijangoscruz/) referentes del área en la UNAM.
 
 ### 1. El lenguaje natural, la Inteligencia artificial y los niveles lingüísticos
 
